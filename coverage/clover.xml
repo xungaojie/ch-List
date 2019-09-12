@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1568253124041" clover="3.2.0">
+  <project timestamp="1568253124042" name="All files">
+    <metrics statements="37" coveredstatements="34" conditionals="53" coveredconditionals="52" methods="11" coveredmethods="10" elements="101" coveredelements="96" complexity="0" loc="37" ncloc="37" packages="1" files="2" classes="2">
+      <file name="List.vue" path="H:\01_code\FE\chlist\src\components\List.vue">
+        <metrics statements="14" coveredstatements="11" conditionals="12" coveredconditionals="11" methods="4" coveredmethods="3"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="3" falsecount="0"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="31" count="6" type="cond" truecount="3" falsecount="0"/>
+        <line num="37" count="6" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+      </file>
+      <file name="ListItem.vue" path="H:\01_code\FE\chlist\src\components\ListItem.vue">
+        <metrics statements="23" coveredstatements="23" conditionals="41" coveredconditionals="41" methods="7" coveredmethods="7"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="18" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="53" count="19" type="stmt"/>
+        <line num="54" count="19" type="stmt"/>
+        <line num="55" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="19" type="stmt"/>
+        <line num="62" count="19" type="cond" truecount="3" falsecount="0"/>
+        <line num="68" count="19" type="stmt"/>
+        <line num="69" count="19" type="cond" truecount="3" falsecount="0"/>
+        <line num="75" count="19" type="cond" truecount="5" falsecount="0"/>
+        <line num="78" count="19" type="stmt"/>
+        <line num="79" count="19" type="stmt"/>
+        <line num="80" count="19" type="stmt"/>
+        <line num="81" count="19" type="cond" truecount="5" falsecount="0"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="89" count="2" type="stmt"/>
+        <line num="92" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="104" count="19" type="stmt"/>
+        <line num="111" count="19" type="cond" truecount="5" falsecount="0"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
