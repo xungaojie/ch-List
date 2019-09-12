@@ -10,7 +10,8 @@ let List = {
       default: "horizontal"
     },
     customClass: {},
-    header: {}
+    header: {},
+    footer: {}
   },
   render: function(h, context) {
     const slots = context.slots();
@@ -43,11 +44,7 @@ let List = {
     );
   }
 };
-List.install = function(Vue) {
-  Vue.component(`Ch${List.name}`, List);
-  Vue.component(`Ch${List.Item.name}`, List.Item);
-  Vue.component(`Ch${List.Item.Meta.name}`, List.Item.Meta);
-};
+
 export default List;
 </script>
 <style lang="stylus">
